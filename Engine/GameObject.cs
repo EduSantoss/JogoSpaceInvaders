@@ -1,4 +1,4 @@
-using System.Drawing;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
 public class GameObject
@@ -7,7 +7,6 @@ public class GameObject
     // com essa classe da para criar objetos em cena, ou no caso, o proprio menu precisa ser um objeto
     protected Rectangle _bounds;
     protected Texture2D _image;
-
     public Rectangle Bounds
     {
         get { return _bounds; }

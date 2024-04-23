@@ -6,14 +6,20 @@
   <SourceFiles>
     <File>C:/Users/Laura/GameSpaceInvaders/Content/alien (1).png</File>
     <File>C:/Users/Laura/GameSpaceInvaders/Content/alienboss.png</File>
+    <File>C:/Users/Laura/GameSpaceInvaders/Content/arial24.spritefont</File>
     <File>C:/Users/Laura/GameSpaceInvaders/Content/backgroundspaceship.png</File>
     <File>C:/Users/Laura/GameSpaceInvaders/Content/ExitImage.png</File>
     <File>C:/Users/Laura/GameSpaceInvaders/Content/laser.png</File>
     <File>C:/Users/Laura/GameSpaceInvaders/Content/naveespacial.png</File>
     <File>C:/Users/Laura/GameSpaceInvaders/Content/PlayImage.png</File>
-    <File>C:/Users/Laura/GameSpaceInvaders/Content/spaceship.png</File>
+    <File>C:/Users/Laura/GameSpaceInvaders/Content/spaceship/naveespacialframe1.png</File>
+    <File>C:/Users/Laura/GameSpaceInvaders/Content/spaceship/naveespacialframe2.png</File>
+    <File>C:/Users/Laura/GameSpaceInvaders/Content/spaceship/naveespacialframe3.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

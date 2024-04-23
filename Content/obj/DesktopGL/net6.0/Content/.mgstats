@@ -1,9 +1,12 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "C:/Users/Laura/GameSpaceInvaders/Content/alien (1).png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/alien (1).xnb","TextureProcessor","Texture2DContent",609,16469,0.3508206
 "C:/Users/Laura/GameSpaceInvaders/Content/alienboss.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/alienboss.xnb","TextureProcessor","Texture2DContent",2202,131157,0.0115048
+"C:/Users/Laura/GameSpaceInvaders/Content/arial24.spritefont","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/arial24.xnb","FontDescriptionProcessor","SpriteFontContent",2005,70687,0.5761994
 "C:/Users/Laura/GameSpaceInvaders/Content/backgroundspaceship.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/backgroundspaceship.xnb","TextureProcessor","Texture2DContent",506214,15360085,1.5683734
 "C:/Users/Laura/GameSpaceInvaders/Content/ExitImage.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/ExitImage.xnb","TextureProcessor","Texture2DContent",18267,259285,0.0308055
 "C:/Users/Laura/GameSpaceInvaders/Content/laser.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/laser.xnb","TextureProcessor","Texture2DContent",393,16469,0.0061127
 "C:/Users/Laura/GameSpaceInvaders/Content/naveespacial.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/naveespacial.xnb","TextureProcessor","Texture2DContent",23097,196693,0.0189691
 "C:/Users/Laura/GameSpaceInvaders/Content/PlayImage.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/PlayImage.xnb","TextureProcessor","Texture2DContent",6186,259285,0.038549
-"C:/Users/Laura/GameSpaceInvaders/Content/spaceship.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/spaceship.xnb","TextureProcessor","Texture2DContent",22584,162325,0.0186881
+"C:/Users/Laura/GameSpaceInvaders/Content/spaceship/naveespacialframe1.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/spaceship/naveespacialframe1.xnb","TextureProcessor","Texture2DContent",18687,65621,0.4175356
+"C:/Users/Laura/GameSpaceInvaders/Content/spaceship/naveespacialframe2.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/spaceship/naveespacialframe2.xnb","TextureProcessor","Texture2DContent",18897,65621,0.0164889
+"C:/Users/Laura/GameSpaceInvaders/Content/spaceship/naveespacialframe3.png","C:/Users/Laura/GameSpaceInvaders/Content/bin/DesktopGL/Content/spaceship/naveespacialframe3.xnb","TextureProcessor","Texture2DContent",18714,65621,0.0499435

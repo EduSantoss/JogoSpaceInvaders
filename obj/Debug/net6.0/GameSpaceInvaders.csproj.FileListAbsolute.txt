@@ -1,5 +1,4 @@
 C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\backgroundspaceship.xnb
-C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\spaceship.xnb
 C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\GameSpaceInvaders.exe
 C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\GameSpaceInvaders.deps.json
 C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\GameSpaceInvaders.runtimeconfig.json
@@ -31,3 +30,7 @@ C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\alien (1).xnb
 C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\ExitImage.xnb
 C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\naveespacial.xnb
 C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\PlayImage.xnb
+C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\spaceship\naveespacialframe1.xnb
+C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\spaceship\naveespacialframe2.xnb
+C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\spaceship\naveespacialframe3.xnb
+C:\Users\Laura\GameSpaceInvaders\bin\Debug\net6.0\Content\arial24.xnb

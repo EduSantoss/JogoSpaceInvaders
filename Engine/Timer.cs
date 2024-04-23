@@ -4,6 +4,11 @@ public class Timer
 {
 
     // classe temporizador, pode ser usada para basicamente tudo relacionado a algo ao longo do tempo, exemplo as animaçoes
+    // classe Timer = encapsulamento do temporizador
+    // metodo start recebe: 
+    // callback, um metodo a ser chamado
+    // duration, duraçao do metodo chamado/ quanto tempo o temporizador sera usado
+    // repeat, definir se ira ou nao repetir
 
     private Action _callback;
     private float _duration;

@@ -1,4 +1,4 @@
-using System.Drawing;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -6,7 +6,10 @@ using Microsoft.Xna.Framework.Input;
 public class GameScreen : IScreen
 {
     private GameObject _background;
-     private Rectangle _framesBackground;
+    private Texture2D _backgroundImage;
+    private Rectangle[] _framesBackground;
+    private int _index;
+    private double _time;
 
     public void LoadContent(ContentManager content)
     {
@@ -29,6 +32,7 @@ public class GameScreen : IScreen
             Globals.GameInstance.ChangeScreen(EScreen.Menu);
         }
 
+     // background animation 
          if (_time > 0.1){
             _time = 0.0;
             _index++;
@@ -41,5 +45,7 @@ public class GameScreen : IScreen
     public void Draw(SpriteBatch spriteBatch)
     {
         _background.Draw(spriteBatch);
+     //   spriteBatch.Draw(_backgroundImage, new Vector2(0, 0), _framesBackground[_index], Color.White);
+        
     }
 }
