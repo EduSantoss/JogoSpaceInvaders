@@ -1,4 +1,4 @@
-    <h1 align="center"> Jogo Space Invaders </h1>
+<h1 align="center"> Jogo Space Invaders </h1>
 
 <p align="center"> Um projeto livre da faculdade, para construir um jogo utilizando a engine MonoGame, a proposta aqui é um jogo estilo o clássico Space Invaders, com pontuação, coleta de itens para upgrade da nave, luta com bosses, e muito mais em breve.  </p>
 
